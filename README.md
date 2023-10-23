@@ -62,38 +62,21 @@ Make sure the libraries above are installed before running the notebook in the f
 ## Usage
 
 This project could be used to print season statistics, study the correlation nature between different metrics, and analyze the effect of managers on their clubs before and after their tenure. 
-<img width="723" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/cefa7cdb-741f-4c37-9b82-2cd5013237ae">
 <img width="1364" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/b5c3240b-329b-4c5a-aa2f-e072657984d1">
 <img width="1630" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/388ea8b4-1c8c-4c2d-ae46-b2156d0971bc">
 <img width="783" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/bbd9fb6e-6efb-4e14-8e50-1b75cdb7180c">
+<img width="723" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/cefa7cdb-741f-4c37-9b82-2cd5013237ae">
 
 
 ## Contributing
 
-Explain how others can contribute to your project. Include guidelines for reporting issues, submitting pull requests, and the code of conduct for contributors.
-
-## License
-
-Indicate the license under which your project is distributed. Be clear about how others can use and modify your project.
+Others can contribute to this project by adding more recent seasons to the dataset as this dataset only goes up to 2019.
 
 ## Acknowledgments
 
-Mention any contributors, libraries, or tools that you want to acknowledge.
+I would like to thank the kaggle user who made the dataset available.
 
 ## Contact
 
-Provide your contact information and a way for users to reach out with questions or feedback.
-
-## Additional Sections
-
-Depending on your project, you may want to include additional sections such as:
-
-- Troubleshooting
-- Frequently Asked Questions (FAQ)
-- Changelog
-- Roadmap
-- Examples
-- Screenshots
-
-Customize the README file to suit your project's specific needs. A well-structured and informative README file helps users and potential contributors understand and engage with your project more effectively.
+email: zhussei@uwo.ca
 
