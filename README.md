@@ -1,6 +1,6 @@
 # Soccer-Premier-League-Analysis
 
-# Project Title
+# Premier League Analysis
 
 Soccer Premier League Analysis.
 
@@ -17,20 +17,44 @@ Soccer Premier League Analysis.
 
 ## About
 
-Explain what your project does, why it exists, and what problem it solves. Provide a high-level overview.
+This project entails an in-depth scrutiny of data pertaining to Premier League teams during the period spanning from 2014 to 2019. Our objective is to meticulously scrutinize the intricate interplay of performance metrics and identify the quintessential factor most tightly entwined with a team's acquisition of points. Furthermore, we embark upon a comprehensive exploration of the epochs of triumphant Premier League managers, discerning the profound influence they exerted upon their respective teams. In this endeavor, we articulate a comprehensive blueprint delineating how nascent managers ought to channel their efforts towards enhancing team performance, and offer insights into how board directors of these teams can efficaciously gauge the effectiveness of their managerial personnel.
 
 ## Features
 
-List the key features or functionalities of your project.
+Some features were not included in the analysis due to lack of explanation of the metrics' meanings. The features focused on in this project are:
+
+- Game week
+- Date
+- Result
+- Home/Away
+- xG (expected goals)
+- scored
+- xGA (expected goals againt)
+- conceded
+- xpts (expected points)
+- pts (points)
+- npxG (non penalty expected goals)
+- npxGA (non penalty expected goals against)
+- ppda_coef (Passes Allowed Per Defensive Action, this metric is high for teams which play in a high press manner)
+- team name
+- season
 
 ## Getting Started
 
-Explain how to set up and run your project. Provide detailed instructions, including any prerequisites and installation steps.
+Link to dataset: https://www.kaggle.com/datasets/abrarhossainhimself/understat-data-for-teams-players-2014-present
+
+Download the data set which is a zip file containing a csv file for each season which contains a file each team. After extracting the zip file and uploading it to your notebook (in my case I used google drive), everything else will be taken care of. The first section of cells combines together all the csv files for the teams across all seaons into one main spreadsheet. 
 
 ### Prerequisites
 
-List any software, libraries, or tools that users need to have installed before they can use your project.
-
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+- glob
+- google.colab
+- plotly
+  
 ### Installation
 
 Provide step-by-step instructions on how to install your project and any dependencies. Use code blocks and examples to make it easy to follow.
