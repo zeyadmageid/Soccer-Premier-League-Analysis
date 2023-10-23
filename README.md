@@ -13,7 +13,8 @@ Soccer Premier League Analysis.
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Acknowledgments] (#acknowledgments)
+- [Contact] (#contact)
 
 ## About
 
