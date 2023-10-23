@@ -57,11 +57,16 @@ Download the data set which is a zip file containing a csv file for each season 
   
 ### Installation
 
-Provide step-by-step instructions on how to install your project and any dependencies. Use code blocks and examples to make it easy to follow.
+Make sure the libraries above are installed before running the notebook in the following format "!pip install library_name. For example, installing pandas would be: !pip install pandas
 
 ## Usage
 
-Explain how to use your project, including code examples, screenshots, or demos. Provide clear and concise instructions.
+This project could be used to print season statistics, study the correlation nature between different metrics, and analyze the effect of managers on their clubs before and after their tenure. 
+<img width="723" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/cefa7cdb-741f-4c37-9b82-2cd5013237ae">
+<img width="1364" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/b5c3240b-329b-4c5a-aa2f-e072657984d1">
+<img width="1630" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/388ea8b4-1c8c-4c2d-ae46-b2156d0971bc">
+<img width="783" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/bbd9fb6e-6efb-4e14-8e50-1b75cdb7180c">
+
 
 ## Contributing
 
