@@ -15,6 +15,7 @@ Soccer Premier League Analysis.
 - [Contributing](#contributing)
 - [Acknowledgments] (#acknowledgments)
 - [Contact] (#contact)
+- [Acknowledgments](#acknowledgments)
 
 ## About
 
