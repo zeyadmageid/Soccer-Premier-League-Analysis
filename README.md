@@ -15,7 +15,7 @@ Soccer Premier League Analysis from 2014-2019 seasons.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Dashboard] (#dashboard)
+- [Dashboard](#dashboard)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
