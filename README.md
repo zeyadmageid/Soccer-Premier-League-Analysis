@@ -1,4 +1,4 @@
-# Soccer-Premier-League-Analysis
+# ⚽🏆 Soccer-Premier-League-Analysis
 
 <img width="568" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/9d16996c-0738-4489-bbb3-151700a426ac">
 
