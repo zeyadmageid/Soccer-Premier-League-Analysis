@@ -15,6 +15,7 @@ Soccer Premier League Analysis from 2014-2019 seasons.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+- [Dashboard] (#dashboard)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
@@ -72,6 +73,11 @@ This project could be used to print season statistics, study the correlation nat
 <img width="723" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/cefa7cdb-741f-4c37-9b82-2cd5013237ae">
 
 
+## Dashboard
+
+https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/c302c3ed-bb49-4f89-92bb-8f07fa961cbe
+
+
 ## Contributing
 
 Others can contribute to this project by adding more recent seasons to the dataset as this dataset only goes up to 2019.
@@ -83,4 +89,5 @@ I would like to thank the kaggle user who made the dataset available.
 ## Contact
 
 email: zhussei@uwo.ca
+
 
