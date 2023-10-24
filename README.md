@@ -79,11 +79,11 @@ https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/c3
 
 Others can contribute to this project by adding more recent seasons to the dataset as this dataset only goes up to 2019.
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
 I would like to thank the kaggle user who made the dataset available.
 
-## Contact
+## 📧 Contact
 
 email: zhussei@uwo.ca
 
