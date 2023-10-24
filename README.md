@@ -2,12 +2,9 @@
 
 <img width="568" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/9d16996c-0738-4489-bbb3-151700a426ac">
 
-
-# Premier League Analysis
-
 Soccer Premier League Analysis from 2014-2019 seasons.
 
-## Table of Contents
+## 📂Table of Contents
 
 - [About](#about)
 - [Features](#features)
@@ -50,7 +47,7 @@ Link to dataset: https://www.kaggle.com/datasets/abrarhossainhimself/understat-d
 
 Download the data set which is a zip file containing a csv file for each season which contains a file each team. After extracting the zip file and uploading it to your notebook (in my case I used google drive), everything else will be taken care of. The first section of cells combines together all the csv files for the teams across all seaons into one main spreadsheet. 
 
-### Prerequisites
+### ❗Prerequisites
 
 - Pandas
 - Numpy
@@ -73,7 +70,7 @@ This project could be used to print season statistics, study the correlation nat
 <img width="723" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/cefa7cdb-741f-4c37-9b82-2cd5013237ae">
 
 
-## Dashboard
+## 📊 Dashboard
 
 https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/c302c3ed-bb49-4f89-92bb-8f07fa961cbe
 
